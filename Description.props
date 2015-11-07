@@ -1,0 +1,44 @@
+# Description file for Light10Stemmer
+#
+# 
+
+# Package name (required)
+PackageName=light10stemmer
+
+# Version (required)
+Version=1.0.0
+
+#Date
+Date=2015-11-7
+
+# Title (required)
+Title=Arabic Stemmer / Light10Stemmer 
+
+Category=Preprocessing
+
+# Author (required)
+Author=Milad Alshomary <milad.alshomary@gmail.com>
+
+# Maintainer (required)
+Maintainer=Milad Alshomary <milad.alshomary@gmail.com>
+
+# License (required)
+License=GPL 2.0
+
+# Description (required)
+Description=Performs Stemming / implementation of Light10 stemming method
+
+# Package URL for obtaining the package archive (required)
+PackageURL=https://github.com/MiladAlshomary/light10stemmer/blob/master/light10stemmer.jar
+
+# URL for further information
+URL=https://github.com/MiladAlshomary/light10stemmer
+
+# Related to other packages?
+Related=
+
+# Dependencies
+Depends=weka (>=3.7.1)
+
+# Special instructions to be displayed on installation of this package
+MessageToDisplayOnInstallation=
